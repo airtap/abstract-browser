@@ -1,6 +1,6 @@
 {
   "name": "abstract-browser",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Interface for opening and closing a browser",
   "license": "MIT",
   "author": "Vincent Weevers",
