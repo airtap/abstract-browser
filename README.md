@@ -4,6 +4,7 @@
 
 [![npm status](http://img.shields.io/npm/v/abstract-browser.svg)](https://www.npmjs.org/package/abstract-browser)
 [![node](https://img.shields.io/node/v/abstract-browser.svg)](https://www.npmjs.org/package/abstract-browser)
+[![Travis](https://img.shields.io/travis/com/airtap/abstract-browser.svg)](https://travis-ci.com/airtap/abstract-browser)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Usage
